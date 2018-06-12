@@ -1,0 +1,5 @@
+﻿backup/*~
+swp/*.sw[a-p]
+undo/*
+!undo/.gitkeep
+

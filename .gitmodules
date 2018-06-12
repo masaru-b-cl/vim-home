@@ -1,0 +1,3 @@
+[submodule "pack/colorschemes/start/molokai"]
+	path = pack/colorschemes/start/molokai
+	url = https://github.com/tomasr/molokai.git
